@@ -1,13 +1,41 @@
 {{ define "main" }}
 
+
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+{{ partial "nav" . }}
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "2-up" .Params }}
+{{ partial "2-up-list" .Params }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<div class="flex justify-center">
+  {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
+    {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
+      {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
 
-{{ partial "blog" . }}
+</div>
+
+
+<!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+
+{{ partial "blog" . }} -->
+
+
+
+<script>
+window.onscroll = function() {myFunction()};
+
+var navbar = document.getElementById("navbar");
+var sticky = navbar.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset >= sticky) {
+    navbar.classList.add("sticky")
+  } else {
+    navbar.classList.remove("sticky");
+  }
+}
+</script>
 
 {{ end }}
