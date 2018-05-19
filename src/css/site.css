@@ -21,12 +21,22 @@
 }
 
 #navbar a.active {
-  /* background-color: #4CAF50;
-  color: white; */
+  background-color: #4CAF50;
+  color: white;
 }
 
 .content {
-  /* padding: 16px; */
+  padding: 16px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
 }
 
 
@@ -52,8 +62,9 @@
   }
 }
 
-
-
+*, *:before, *:after {
+  box-sizing: inherit;
+}
 body {
    overflow-x: hidden;
    -webkit-font-smoothing: antialiased;
