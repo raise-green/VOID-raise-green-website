@@ -43,6 +43,8 @@
     "postcss-loader": "^0.9.1",
     "postcss-uncss": "^0.14.0",
     "react": "15.6.1",
+    "smooth-scroll": "^14.2.0",
+    "tachyons": "^4.9.1",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^3.0.0",
