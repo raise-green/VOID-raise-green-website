@@ -1,7 +1,13 @@
 {{ define "main" }}
 
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+  <div class="mw5 mw7-ns center tc">
+    {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+    {{ partial "newsletter-form" . }}
+  </div>
+
+
+
 
 {{ partial "nav" . }}
 
@@ -9,12 +15,15 @@
 
 {{ partial "2-up-list" .Params }}
 
-<div class="flex justify-center">
+<!-- <section class=" cf-ns nl2 nr2 mw5 center bg-white br3 pa3 pa4-ns mv3"> -->
+<section id="team" class="cf pt4 pb2 mw8 center">
+    <div class="mhn1-l ph3 center mw7">
+<h2 class="f2 b lh-title mb2">Our Team</h2>
   {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
     {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
       {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
-
 </div>
+</section>
 
 
 <!-- {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
@@ -23,19 +32,5 @@
 
 
 
-<script>
-window.onscroll = function() {myFunction()};
-
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
-  }
-}
-</script>
 
 {{ end }}

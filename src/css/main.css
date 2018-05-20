@@ -87,16 +87,5 @@
 @import './site.css';
 
 
-
-
-*, *:before, *:after {
-  box-sizing: inherit;
-}
-body {
-   overflow-x: hidden;
-   -webkit-font-smoothing: antialiased;
-}
-.container {
-}
 /* Uncomment out the line below to help debug layout issues */
 /* @import './imports/_debug'; */

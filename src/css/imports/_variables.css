@@ -1,7 +1,7 @@
 :root {
 	/* Colors */
 	--primary: #131D29;
-	--highlight: #F9D342;
+	--highlight: rgb(249, 211, 66);
 	--white: rgba(255, 255, 255, 1);
 	--off-white: #F5F1F1;
 	--grey-1: rgba(245, 243, 242, 1);
@@ -18,7 +18,7 @@
 	--mirage: #131D29;
 
 	/* Typography */
-	--font-family:  -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
+	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
 	--line-height: 1.5;
 
 	--font-size: 18px;
