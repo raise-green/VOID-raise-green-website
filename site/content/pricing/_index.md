@@ -1,7 +1,7 @@
 ---
 title: Pricing
 type: pricing
-image: /img/projects-jumbotron.jpg
+image: https://picsum.photos/200/300?random
 heading: What we offer
 pricing:
   heading: Monthly subscriptions

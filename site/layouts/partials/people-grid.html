@@ -1,0 +1,9 @@
+<div class="mw7 center ph3 pv4">
+    <h2 class="f2 b lh-title mb2">Our Team</h2>
+	<div class="mhn1-l ph3 center mw7">
+
+		{{ range $index, $element := .Params.people}}
+	  {{ partial "team-card" (dict "name" $element.name "text" $element.text "image" $element.imageUrl)}}
+		{{ end }}
+  </div>
+</div>

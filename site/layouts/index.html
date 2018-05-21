@@ -36,11 +36,17 @@
 <section id="team" class="cf pt4 pb2 mw8 center">
   <div class="mhn1-l ph3 center mw7">
     <h2 class="f2 b lh-title mb2">Our Team</h2>
-    {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
-    {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
-    {{ partial "team-card" (dict "name" "Matt" "text" "I do stuff")}}
+    {{ with .Site.GetPage "section" "people" }}
+    <!-- {{ printf "%#v" .Params.people }} -->
+    {{ range $index, $element := .Params.people}}
+    <!-- {{ printf "%#v" $element }} -->
+    {{ partial "team-card" (dict "name" $element.name "text" $element.text "image" $element.imageUrl)}}
+    {{ end }}
+    {{ end }}
   </div>
 </section>
+
+
 
 <section id="board" class="bg-half-baked">
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}

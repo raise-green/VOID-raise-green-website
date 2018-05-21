@@ -20,7 +20,7 @@ projects:
 
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: Ad labore culpa reprehenderit aute fugiat ad dolor dolore laborum laborum qui ad labore est ea. Cillum veniam excepteur dolor dolore laborum sint cillum ex pariatur do aute aliqua. Sunt do reprehenderit sit officia in in est aliqua. Officia nostrud non duis adipisicing cupidatat cupidatat tempor mollit laboris incididunt deserunt ipsum excepteur aliqua nulla. Veniam deserunt nisi qui exercitation incididunt qui nulla cillum excepteur magna adipisicing laborum minim cillum cupidatat ipsum ex. Enim ullamco adipisicing duis incididunt mollit irure cupidatat exercitation occaecat enim ipsum. Nostrud sunt ipsum et eiusmod consectetur commodo minim excepteur est labore consequat nisi Lorem. Est minim aliquip occaecat ea magna cupidatat excepteur anim irure elit reprehenderit mollit.
 
 
 ---

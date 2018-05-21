@@ -1,45 +1,25 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: https://picsum.photos/200/300
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Ad quis ipsum quis sint quis consectetur voluptate reprehenderit excepteur nulla sunt."
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Id Lorem enim eiusmod incididunt esse labore officia aliqua quis mollit mollit velit est eu. Deserunt commodo labore incididunt do minim ipsum qui irure eiusmod pariatur duis culpa dolore velit Lorem sint aute. Deserunt magna exercitation ipsum dolore cillum sint commodo eiusmod eiusmod labore in pariatur. Ex commodo deserunt ut ipsum in adipisicing commodo minim. Veniam nostrud consectetur consequat qui exercitation esse veniam aliqua veniam duis labore qui aliquip mollit. Do in fugiat sunt ex nisi sunt esse aliqua pariatur dolor. Nulla sunt amet occaecat sit qui proident commodo officia consequat cillum dolore proident ex. Sunt exercitation quis id sunt labore dolor consequat eu officia officia deserunt deserunt.
+    imageUrl: "https://picsum.photos/200/300"
+  - heading: "Ad quis ipsum quis sint quis consectetur voluptate reprehenderit excepteur nulla sunt."
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Dolor quis sint aliqua pariatur nisi ea quis aliqua veniam ex culpa proident. Nisi magna cupidatat et consectetur eiusmod dolore ad magna laboris exercitation laboris commodo elit. Nisi nulla cillum irure eiusmod eiusmod dolore ex. Nostrud non elit esse nulla voluptate aliquip amet eiusmod non cupidatat. Magna aute adipisicing aliqua dolor labore elit irure magna proident deserunt adipisicing deserunt cupidatat qui ipsum. Nostrud culpa non anim est consectetur labore culpa. Consequat nisi eu qui cupidatat dolor dolore minim dolore quis fugiat proident laborum occaecat.
+    imageUrl: "https://picsum.photos/200/300"
+  - heading: "Ad quis ipsum quis sint quis consectetur voluptate reprehenderit excepteur nulla sunt."
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+      Dolor quis sint aliqua pariatur nisi ea quis aliqua veniam ex culpa proident. Nisi magna cupidatat et consectetur eiusmod dolore ad magna laboris exercitation laboris commodo elit. Nisi nulla cillum irure eiusmod eiusmod dolore ex. Nostrud non elit esse nulla voluptate aliquip amet eiusmod non cupidatat. Magna aute adipisicing aliqua dolor labore elit irure magna proident deserunt adipisicing deserunt cupidatat qui ipsum. Nostrud culpa non anim est consectetur labore culpa. Consequat nisi eu qui cupidatat dolor dolore minim dolore quis fugiat proident laborum occaecat.
+    imageUrl: "https://picsum.photos/200/300"
+  - heading: "Ad quis ipsum quis sint quis consectetur voluptate reprehenderit excepteur nulla sunt."
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+      Dolor quis sint aliqua pariatur nisi ea quis aliqua veniam ex culpa proident. Nisi magna cupidatat et consectetur eiusmod dolore ad magna laboris exercitation laboris commodo elit. Nisi nulla cillum irure eiusmod eiusmod dolore ex. Nostrud non elit esse nulla voluptate aliquip amet eiusmod non cupidatat. Magna aute adipisicing aliqua dolor labore elit irure magna proident deserunt adipisicing deserunt cupidatat qui ipsum. Nostrud culpa non anim est consectetur labore culpa. Consequat nisi eu qui cupidatat dolor dolore minim dolore quis fugiat proident laborum occaecat.
+    imageUrl: "https://picsum.photos/200/300"
+  - heading: "Ad quis ipsum quis sint quis consectetur voluptate reprehenderit excepteur nulla sunt."
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      Dolor quis sint aliqua pariatur nisi ea quis aliqua veniam ex culpa proident. Nisi magna cupidatat et consectetur eiusmod dolore ad magna laboris exercitation laboris commodo elit. Nisi nulla cillum irure eiusmod eiusmod dolore ex. Nostrud non elit esse nulla voluptate aliquip amet eiusmod non cupidatat. Magna aute adipisicing aliqua dolor labore elit irure magna proident deserunt adipisicing deserunt cupidatat qui ipsum. Nostrud culpa non anim est consectetur labore culpa. Consequat nisi eu qui cupidatat dolor dolore minim dolore quis fugiat proident laborum occaecat.
+    imageUrl: "https://picsum.photos/200/300"
 ---
