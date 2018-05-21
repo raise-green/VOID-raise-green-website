@@ -1,15 +1,10 @@
 ---
 title: Upcoming Projects
 image: /img/projects-jumbotron.jpg
+type: projects
 heading: What we offer
 description: >-
-  At vero eos et accusamus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat. Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-
-
-
-  Nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam. Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+  At vero eos et accusamus.
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
