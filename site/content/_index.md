@@ -8,7 +8,7 @@ blurb:
 intro:
     heading: "Our Mission"
     text: ""
-products:
+projects:
     - image: img/illustrations-coffee.svg
       text: "Confront environmental challenges with impactful projects"
     - image: /img/illustrations-coffee-gear.svg

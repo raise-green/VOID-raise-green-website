@@ -40,11 +40,17 @@
   </div>
 </section>
 
-<div class="bg-half-baked">
+<section id="board" class="bg-half-baked">
 {{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
 </div>
-{{ partial "blog" . }}
 
+<section id="project">
+{{ partial "blog" . }}
+</section>
+
+<section id="blog">
+{{ partial "blog" . }}
+</section>
 
 
 
