@@ -9,13 +9,13 @@ intro:
     heading: "Our Mission"
     text: ""
 projects:
-    - image: img/illustrations-coffee.svg
+    - image: 
       text: "Confront environmental challenges with impactful projects"
-    - image: /img/illustrations-coffee-gear.svg
+    - image: 
       text: "Reduce air pollution exposure in vulnerable communities"
-    - image: img/illustrations-coffee.svg
+    - image: 
       text: "Confront environmental challenges with impactful projects"
-    - image: /img/illustrations-coffee-gear.svg
+    - image: 
       text: "Reduce air pollution exposure in vulnerable communities"
 
 values:
