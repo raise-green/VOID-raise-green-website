@@ -1,6 +1,6 @@
-<form class="pa2 pa4-l">
+<form class="pa2 pa4-l" netlify-honeypot="bot-field" name="subscribe" method="POST" netlify>
 
-  <form class="mw4 center br2-ns" name="subscribe" method="POST" netlify>
+  <!-- <form class="mw4 center br2-ns" > -->
   <fieldset class="cf ma0 pa0">
     <p class="hidden">
       <label>Don’t fill this out if you're human: <input name="bot-field"></label>
@@ -8,12 +8,13 @@
     <legend class="pa0 f5 f4-ns mb2 black-80">Subscribe for updates:</legend>
     <div class="cf">
       <label class="clip" for="email-address">Email Address</label>
-      <input class="f6 f5-l input-reset bn fl black-80 bg-white pa2  w-100 w-75-m w-80-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email-address" value="" id="email-address">
-      <input class="f6 f5-l fl  bg-saffron pv2 tc  white pointer w-100 w-20-m w-20-l br2-ns br--right-ns" type="submit" value="Subscribe">
+      <input class="f6 f5-l input-reset bn fl black-80 bg-white pa2  w-100 w-75-m w-80-l br2-ns br--left-ns" placeholder="Your Email Address" type="email" name="email-address" id="email-address">
+      <button type="submit" class="form-btn f6 f5-l fl bg-saffron pa2 tc  white pointer w-100 w-20-m w-20-l br1  br--right">Subscribe</button>
+      <!-- <input class="f6 f5-l fl  bg-saffron pv2 tc  white pointer w-100 w-20-m w-20-l br2-ns br--right-ns" type="submit" value="Subscribe"> -->
 
     </div>
   </fieldset>
-</form>
+<!-- </form> -->
 </form>
 
 
