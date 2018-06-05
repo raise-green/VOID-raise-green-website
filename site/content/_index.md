@@ -14,7 +14,6 @@ projects:
   - text: Confronting environmental challenges with impactful projects
   - text: Reducing air pollution exposure in vulnerable communities
   - text: Creating new ways to make money for everyone
-  - text: Build the future we want and need
 values:
   heading: Our values
   text: >-
