@@ -1,46 +1,51 @@
 ---
 title: Upcoming Projects
-image: https://picsum.photos/200/300?random
-type: projects
-heading: What we offer
-description: >-
-  At vero eos et accusamus.
+image: /img/south-coast-of-spain-last-light-of-day.jpg
+heading: We are starting with commuinty solar
+description: This is only the beginning.
 intro:
   blurbs:
-    - image: https://picsum.photos/200/300?random
-      text: >
-        Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-    - image: https://picsum.photos/200/300?random
-      text: >
-        We ut perspiciatis unde omnis iste natus error sit voluptatem. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
-    - image: https://picsum.photos/200/300?random
-      text: >
-        Love ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam. Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    - image: https://picsum.photos/200/300?random
-      text: >
-        vero eos et accusamus. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat. Non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-  heading: What we offer
-  description: >
-    Love ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam. Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - image: ''
+      text: '10 kW array for the Columbus House in New Haven, CT'
+    - image: ''
+      text: '1 MW for a school district in Tamales, CA.'
+    - image: ''
+      text: '50 kw for a homeowner''s association in Washington, D.C. '
+    - image: ''
+      text: 1 MW for a native american reservation in Montana
+  heading: 'Community solar means cheaper power bills, more income, and cleaner air'
+  description: >-
+    We at Raise Green are working to make sure the next generation of energy
+    infrastructure is owned by the people who use it.
 main:
-  heading: liquid ex ea commodi
-  description: >
-    Love ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam. Do eiusmod tempor incididunt ut labore et dolore magna aliqua. Do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  heading: We are all vulnerable if we are not resilient
+  description: >-
+    We need a new way to finance - shared ownership means shared profits, shared
+    losses, and a shared future
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: https://picsum.photos/200/300?random
+    alt: Solar Insolation Map
+    image: ''
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: https://picsum.photos/200/300?random
+    alt: Pollution dispersion map
+    image: ''
   image3:
-    alt: Coffee beans
-    image: https://picsum.photos/200/300?random
+    alt: Income disparity map
+    image: ''
 testimonials:
-  - author: Person
+  - author: Buckminster Fuller
     quote: >-
-      This stuff is great
-  - author: Other Person
+      You never change things by fighting the existing reality. To change
+      something, build a new model that makes the existing model obsolete.
+  - author: Jimi Hendrix
     quote: >-
-      Go for it!
-full_image: https://picsum.photos/200/300?random
+      When the power of love overcomes the love of power the world will know
+      peace.
+full_image: /img/lxyufa2.jpg
+pricing:
+  heading: 'Let''s make your project happen '
+  description: >-
+    We have everything you need, talk you through the process, and care about it
+    succeeding. Let's work together and create the shared ownership of the world
+    we want and we need.
 ---
+
