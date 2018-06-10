@@ -4,18 +4,18 @@ input:focus, textarea:focus, a:focus, button:focus {
   outline: 0!important; */
 }
 
-.raise {
+.grow  {
   transition: var(--hover-transition);
   transform: translateY(0) translateZ(0);
 }
 
-.raise:hover,
-.raise:focus {
+.grow :hover,
+.grow :focus {
   transition: var(--hover-transition);
   transform: translateY(-.12rem) translateZ(0);
 }
 
-.raise:active {
+.grow :active {
   transition: var(--hover-transition);
   opacity: .5;
 }
