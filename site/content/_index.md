@@ -9,10 +9,12 @@ blurb:
     pollution by deploying solar energy.
 intro:
   heading: Our Mission
-  text: >+
+  text: >-
     Raise Green is the first crowdfunding platform focused on climate solution
-    projects with a social mission. We combine the proven investment models of
-    crowdsourcing and project finance to provide innovative pathways for
+    projects with a social mission.
+
+
+    We combine the proven investment models of crowdsourcing and project finance to provide innovative pathways for
     non-accredited investors to access sustainable investment opportunities in a
     low-risk, low-cost, and impactful way. We aggregate small investments to
     provide investors with equity into project finance companies. Initially,
@@ -24,13 +26,16 @@ intro:
     Empower communities by funding projects from around the neighborhood and
     around the county. Raise Green offers a tool for individuals to list the
     projects they need in the community, then open the project up for
-    investment. Everyday people can purchase a part of the company and share in
-    the profits or losses associatied with the project. Our first projects focus
+    investment.
+
+
+    Everyday people can purchase a part of the company and share in
+    the profits or losses associated with the project. Our first projects focus
     on community solar arrays -- the hardest to finance aspect of renewable for
     those who need it most. Communities gain with cheaper utility rates, cleaner
     air, and revenue from the extra electricity their solar panels generate.
 
-projects:
+goals:
   - text: Confront environmental challenges with impactful projects
   - text: Reduce air pollution exposure in vulnerable communities
   - text: Create new investment pathways accessible to anyone
