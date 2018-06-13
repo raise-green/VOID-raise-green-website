@@ -6,13 +6,13 @@ description: This is only the beginning.
 intro:
   blurbs:
     - image: ''
-      text: '10 kW array for the Columbus House in New Haven, CT'
+      text: '10 kW array in New Haven, CT'
     - image: ''
-      text: '1 MW for a school district in Tamales, CA.'
+      text: '1 MW in Tamales, CA'
     - image: ''
-      text: '50 kw for a homeowner''s association in Washington, D.C. '
+      text: '50 kw in Washington, D.C. '
     - image: ''
-      text: 1 MW for a native american reservation in Montana
+      text: 1 MW in Montana
   heading: 'Community solar means cheaper power bills, more income, and cleaner air'
   description: >-
     We at Raise Green are working to make sure the next generation of energy
