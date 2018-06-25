@@ -1,33 +1,55 @@
 ---
-title: Our Board of Advisors
-image: 
+title: Leadership Team
 people:
-  - imageUrl: /img/franz_head.png
-    name: Franz Hochstrasser
+  - imageUrl: /img/franz-headshot.jpg
+    name: 'Franz Hochstrasser: CEO'
+    role1: ''
     text: >-
-      Franz Hochstrasser, Co-Founder of Raise Green, is pursuing a Masters of
-      Environmental Management at the Yale School of Forestry & Environmental
-      Studies with a focus on finance, economics, and entrepreneurial solutions
-      to climate change. He served as a Senior Advisor to the Special Envoy for
-      Climate Change at the State Department, at the White House Council on
-      Environmental Quality, and at the Department of Agriculture working on
-      energy, climate and conservation.
-  - imageUrl: /img/matts_head.png
-    name: Matthew Moroney
+      Prior to attending the Yale School of Forestry and Environmental Studies,
+      Franz served 8 years in the Obama Administration, and is dedicated to
+      fighting climate change. Most recently he served as Senior Advisor to the
+      Special Envoy for Climate Change at the U.S. Department of State, working
+      on the team that successfully negotiated the Paris Agreement. Prior to
+      that, he was Deputy Associate Director at the White House Council of
+      Environmental Quality working on energy, environment and climate policy
+      and public engagement; and a Confidential Assistant and Legislative
+      Analyst at the U.S. Department of Agriculture working on conservation,
+      energy, food security, science policy and open data. He also worked on
+      both of Barack Obama’s Presidential campaigns in 2008 and 2012. Franz
+      holds a Bachelor of Arts in Linguistics and a Bachelor of Arts in Politics
+      from the University of California, Santa Cruz. When Franz isn’t busy
+      battling climate change he enjoys painting, soccer, and songwriting.
+  - imageUrl: /img/matt-headshot.jpg
+    name: 'Matthew Moroney: CTO'
     text: >-
-      Matthew Moroney, Co-Founder of Raise Green, received a Masters of
-      Environmental Management at the Yale School of Forestry & Environmental
-      Science. He uses data science and systems thinking to deploy renewable
-      energy, analyze air pollution, and green chemistry and circular economy
-      projects. He worked for four years at an environmental engineering firm on
-      the cleanup of contaminated sites and air emissions permitting for new
-      data centers in Washington State.
-  - imageUrl: /img/kwasi_head.png
-    name: Kwasi Ansu
-    text: >-
-      Kwasi Ansu received a Masters of Environmental Management at the Yale
-      School of Forestry & Environmental Studies with a focus on conservation,
-      supply-chain management and renewable energy. He has 10 years of natural
-      resource management and international development experience, most
-      recently as a Program Specialist at Pact.
+      Matt is passionate about using data-driven insights to drive innovation
+      that increases sustainability and equity. His recent research has focused
+      on the relationship between consumer credit card spending and air
+      pollution. Before obtaining a master’s in environmental management from
+      the Yale School of Forestry and Environmental Studies, Matt obtained a
+      Bachelors of Environmental Science with a Chemistry minor at Western
+      Washington University. Afterwards, he spent four years investigating
+      contaminated sites and assisting permitting for new data centers. Matt
+      studies the flow of materials in society and ways to replace them using
+      green chemistry and systems thinking, as well as technologies that will
+      alter the way we live and work. In his “down” time Matt loves to go
+      skiing, cycling, and listening to the freshest jams.
+  - imageUrl: /img/kwasi-headshot.jpg
+    name: 'Kwasi Ansu: CMO'
+    text: >
+      Kwasi comes from a background of international development and natural
+      resource management. He is devoted to developing and implementing
+      integrated data-driven community-based solutions that increase equity and
+      resilience. Kwasi is also a recent graduate from the Yale School of
+      Forestry and Environmental Studies Master’s program, where his research
+      focused largely around smallholder-driven supply chains, and crafting
+      certification and responsible sourcing strategies within them. Bringing
+      ten years of international development experience, Kwasi has worked on
+      projects in Ghana, Nigeria, Liberia, Tanzania, Madagascar, South Africa,
+      and Indonesia; each grappling with similar and yet incredibly unique
+      challenges towards creating a more sustainable future. He received a
+      Bachelor of Arts degree in Sociology from Wesleyan University where he
+      also played football and lacrosse. In his free time Kwasi enjoys playing
+      video games, dancing like a fool, and pretending to surf.
 ---
+
