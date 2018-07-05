@@ -2,7 +2,7 @@
 title: Leadership Team
 people:
   - imageUrl: /img/franz-headshot.jpg
-    name: 'Franz Hochstrasser: CEO'
+    name: 'Franz Hochstrasser: CEO, CFO'
     role1: ''
     text: >-
       Prior to attending the Yale School of Forestry and Environmental Studies,
@@ -20,7 +20,7 @@ people:
       from the University of California, Santa Cruz. When Franz isn’t busy
       battling climate change he enjoys painting, soccer, and songwriting.
   - imageUrl: /img/matt-headshot.jpg
-    name: 'Matthew Moroney: CTO'
+    name: 'Matthew Moroney: COO, CTO'
     text: >-
       Matt is passionate about using data-driven insights to drive innovation
       that increases sustainability and equity. His recent research has focused
@@ -33,7 +33,8 @@ people:
       studies the flow of materials in society and ways to replace them using
       green chemistry and systems thinking, as well as technologies that will
       alter the way we live and work. In his “down” time Matt loves to go
-      skiing, cycling, and listening to the freshest jams.
+      skiing, cycling, argue about ideas in books, ponder the implications of
+      the impending singularity, and listen to the freshest jams.
   - imageUrl: /img/kwasi-headshot.jpg
     name: 'Kwasi Ansu: CMO'
     text: >
