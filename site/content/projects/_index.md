@@ -9,9 +9,6 @@ intro:
   description: >-
     We at Raise Green are working to make sure the next generation of energy
     infrastructure is owned by the people who use it.
-
-
-    https://vimeo.com/user6416023/review/280838054/22ef224bc8
 main:
   heading: We are all vulnerable if we are not resilient
   description: >-
