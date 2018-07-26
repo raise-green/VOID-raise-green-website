@@ -7,6 +7,8 @@ blurb:
   text: >-
     Raise Green is a crowdfunding platform for impact investors to acquire
     equity in climate change solutions.
+
+    https://vimeo.com/user6416023/review/280838054/22ef224bc8
 intro:
   heading: Our Vision
   text: >-
