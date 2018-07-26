@@ -1,6 +1,6 @@
 ---
 title: Our Advisors
-image: /img/silhoeutte-of-a-huge-crowd-of-people_1048-1580.jpg
+image: /img/advisors.jpg
 people:
   - name: Vincent Stanley
     text: >
