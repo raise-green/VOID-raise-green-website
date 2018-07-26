@@ -22,16 +22,8 @@ values:
 
 
     Confronting environmental challenges by implementing impactful projects,
-
-
-    Building equity and reducing exposure in vulnerable communities, and
-
-
-    Creating new investment pathways that are accessible to anyone.
-
-
-
-    Values:
+    building equity and reducing exposure in vulnerable communities, and
+    creating new investment pathways that are accessible to anyone.
 
 
     We are relentlessly passionate about using financial technology to
@@ -39,3 +31,4 @@ values:
     reduce greenhouse emissions, and empower communities to drive change.
     Together we can build and own the decarbonized future we want and need.
 ---
+
