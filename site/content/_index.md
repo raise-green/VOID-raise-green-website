@@ -1,13 +1,12 @@
 ---
 title: Raise Green
 subtitle: 'Crowdfunding a healthy, just, and sustainable future.'
-image: /img/logo_no_text.png
+image: /img/solarpanels.jpg
 blurb:
   heading: About
   text: >-
     Raise Green is a crowdfunding platform for impact investors to acquire
     equity in climate change solutions.
-
 intro:
   heading: Our Vision
   text: >-
@@ -32,3 +31,4 @@ values:
     reduce greenhouse emissions, and empower communities to drive change.
     Together we can build and own the decarbonized future we want and need.
 ---
+
