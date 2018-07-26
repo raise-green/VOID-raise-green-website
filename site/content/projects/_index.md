@@ -4,19 +4,14 @@ image: /img/south-coast-of-spain-last-light-of-day.jpg
 heading: We are starting with commuinty solar
 description: This is only the beginning.
 intro:
-  blurbs:
-    - image: ''
-      text: '10 kW array in New Haven, CT'
-    - image: ''
-      text: '1 MW in Tamales, CA'
-    - image: ''
-      text: '50 kw in Washington, D.C. '
-    - image: ''
-      text: 1 MW in Montana
+  blurbs: []
   heading: 'Community solar means cheaper power bills, more income, and cleaner air'
   description: >-
     We at Raise Green are working to make sure the next generation of energy
     infrastructure is owned by the people who use it.
+
+
+    https://vimeo.com/user6416023/review/280838054/22ef224bc8
 main:
   heading: We are all vulnerable if we are not resilient
   description: >-
