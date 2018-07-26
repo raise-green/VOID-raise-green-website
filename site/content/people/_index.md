@@ -32,7 +32,7 @@ people:
     text: >
       Konstantine Drakonakis is a Venture Partner at Launch Capital. He focuses
       on technology companies within the software, med-tech and green-tech
-      markets. 
+      markets.
   - name: Dr. Martin Wainstein
     text: >+
       Dr. Martin Wainstein is currently the Open Innovation Fellow at the Tsai
@@ -40,4 +40,3 @@ people:
       Yale and MIT, and is focused on finding innovative applications for the
       Blockchain in energy systems.
 ---
-

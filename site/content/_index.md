@@ -39,4 +39,3 @@ values:
     reduce greenhouse emissions, and empower communities to drive change.
     Together we can build and own the decarbonized future we want and need.
 ---
-

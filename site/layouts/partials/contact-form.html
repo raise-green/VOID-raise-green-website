@@ -1,36 +1,37 @@
 <!-- Contact -->
 <div class="mb4">
-  <h4 class="f3 b lh-title mb3 tc">Drop us a line below</h4>
+  <h4 class="f3 b lh-title mb3 tl">Drop us a line below</h4>
 
-  <form name="contact" method="POST" netlify-honeypot="bot-field" netlify>
+  <form id="contact" name="contact" method="POST" netlify-honeypot="bot-field" action="#" netlify>
+        <fieldset>
     <p class="hidden">
       <label>Don’t fill this out if you're human: <input name="bot-field"></label>
     </p>
     <div class="flex-l mhn1-l">
           <!-- Name -->
       <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="text" id="name" placeholder="Name" class="w-100 mb2">
+
+          <input type="text" name="name" id="name" placeholder="Name" class="w-100 mb2">
           <label for="name">Name</label>
-        </fieldset>
+
       </div>
-          <!-- Email -->
+      <!-- Email -->
       <div class="ph1-l w-50-l">
-        <fieldset>
-          <input type="email" id="email" placeholder="Email" class="w-100 mb2">
-          <label for="email">Email</label>
-        </fieldset>
+
+          <input type="email" placeholder="Email" class="w-100 mb2" placeholder="Your Email Address" name="email-address" id="email-address">
+          <label for="email-address">Your Email</label>
+
       </div>
     </div>
 
         <!-- Message -->
-    <fieldset>
-      <textarea name="name" placeholder="Your message" rows="8" cols="80" id="message" class="w-100"></textarea>
+
+      <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" id="message" class="w-100" ></textarea>
       <label for="message">Your message</label>
     </fieldset>
         <!-- Button -->
     <div class="tc">
-      <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
+      <button type="submit" class="btn shadow-3 f6 f5-l  w-100 w-auto-ns grow  bg-success white bg-forest-green pv2 pointer w-100 w-20-m w-20-l">Submit</button>
     </div>
   </form>
 </div>

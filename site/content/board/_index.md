@@ -53,4 +53,3 @@ people:
       also played football and lacrosse. In his free time Kwasi enjoys playing
       video games, dancing like a fool, and pretending to surf.
 ---
-
