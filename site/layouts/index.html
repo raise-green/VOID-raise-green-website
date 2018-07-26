@@ -14,20 +14,32 @@
 </section>
 <section id="about">
   {{ partial "short-text" .Params.blurb}}
+
+
 </section>
-<section id="mission" >
-  <section id="goals" class="mhn1-l ph3 center mw7 bg-half-baked br4 card-4">
+<section id="video">
+<div class="mhn1-l center mw7">
+  
+  <div class="w-100">
+
+    <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/281862263?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+    {{/* <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe src="//player.vimeo.com/video/281862263" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+     </div> */}}
+  </div>
+</div>
+</section>
+  {{/* <section id="goals" class="mhn1-l ph3 center mw7 bg-half-baked br4 card-4">
   <h2 class="f2 b mb2">Our Goals</h2>
 
-  {{ partial "4-column" .Params }}
-</section>
+
+  {{ partial "4-column" .Params  }}
+</section> */}}
   {{ partial "short-text" .Params.intro | markdownify }}
 
-</section>
-</section>
 
-<section id="values" class="bg-half-baked">
-{{ partial "short-text" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+<section id="mission" class="bg-half-baked">
+{{ partial "short-text" (dict "heading" .Params.values.heading "text" .Params.values.text  "buttonText" "Read more" "buttonLink" "/values") }}
 </div>
 
 <div class="bg-saffron">
@@ -68,7 +80,7 @@
   <div class="mhn1-l ph3 cf">
     <h2 class="f2 b lh-title mb2 white">Our Board of Advisors</h2>
     {{ with .Site.GetPage "section" "board" }}
-    {{ partial "media-block-no-text" (dict "imageUrl" .Params.image )}}
+    {{/* {{ partial "media-block-no-text" (dict "imageUrl" .Params.image )}} */}}
     {{/* {{ printf "%#v" .Params}} */}}
     {{ range $index, $element := .Params.people}}
     <!-- {{ printf "%#v" $element }} -->
