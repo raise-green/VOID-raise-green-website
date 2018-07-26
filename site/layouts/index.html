@@ -68,7 +68,8 @@
   <div class="mhn1-l ph3 cf">
     <h2 class="f2 b lh-title mb2 white">Our Board of Advisors</h2>
     {{ with .Site.GetPage "section" "board" }}
-    <!-- {{ printf "%#v" .Params.people }} -->
+    {{ partial "media-block-no-text" (dict "imageUrl" .Params.image )}}
+    {{/* {{ printf "%#v" .Params}} */}}
     {{ range $index, $element := .Params.people}}
     <!-- {{ printf "%#v" $element }} -->
     <div class="fl w-100 w-50-ns pa1">
