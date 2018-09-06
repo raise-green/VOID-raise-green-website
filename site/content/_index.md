@@ -1,6 +1,6 @@
 ---
 title: Raise Green
-subtitle: 'Crowdfunding a healthy, just, and sustainable future.'
+subtitle: Crowdfunding small investments for a democratized renewable energy future
 image: /img/solarpanels.jpg
 blurb:
   heading: About
