@@ -1,6 +1,6 @@
 ---
 title: Raise Green
-subtitle: Crowdfunding small investments for a democratized renewable energy future
+subtitle: Crowdfunding small investments for democratized renewable energy ownership
 image: /img/solarpanels.jpg
 blurb:
   heading: About
@@ -19,7 +19,8 @@ intro:
     Raise Green's vision is a healthy, just, and sustainable world where
     communities experience a multitude of benefits from the democratized
     ownership of renewable energy infrastructure.
-projects: []
+projects:
+  - {}
 values:
   heading: Our Mission
   text: >-
