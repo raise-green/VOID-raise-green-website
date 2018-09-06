@@ -4,9 +4,15 @@ subtitle: Crowdfunding small investments for a democratized renewable energy fut
 image: /img/solarpanels.jpg
 blurb:
   heading: About
-  text: >-
-    Raise Green is a crowdfunding platform for impact investors to acquire
-    equity in climate change solutions.
+  text: >+
+    Raise Green will provide an online portal of financing and support by
+    connecting communities with investors interested in putting their money to
+    work protect people and the planet. We will be listing solar projects for
+    low to middle income populations then growing into other projects like
+    electric vehicle infrastructure, diesel engine replacements with batteries,
+    and microgrids. We are seeking to crowdfund a healthy, just, and sustainable
+    society. Who owns the future? We all can if we Raise Green.
+
 intro:
   heading: Our Vision
   text: >-
