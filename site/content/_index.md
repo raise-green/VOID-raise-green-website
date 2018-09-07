@@ -9,28 +9,27 @@ blurb:
     connecting communities with investors interested in putting their money to
     work protect people and the planet. We will be listing solar projects for
     low to middle income populations then growing into other projects like
-    electric vehicle infrastructure, diesel engine replacements with batteries,
-    and microgrids. We are seeking to crowdfund a healthy, just, and sustainable
-    society. Who owns the future? We all can if we Raise Green.
+    electric vehicle infrastructure, diesel generator replacements, and
+    microgrids.
 
 intro:
   heading: Our Vision
-  text: >-
-    Raise Green's vision is a healthy, just, and sustainable world where
-    communities experience a multitude of benefits from the democratized
-    ownership of renewable energy infrastructure.
+  text: >+
+    At Raise Green, we envision a healthy, just, and sustainable world where
+    individuals can finance projects for low to middle income populations that
+    fight climate change, reduce income inequality, and share in the ownership
+    of renewable energy projects in their communities and across the country.
+
 projects:
   - {}
 values:
   heading: Our Mission
   text: >-
     Raise Green is committed to helping create a more healthy, just, and
-    sustainable world by:
-
-
-    Confronting environmental challenges by implementing impactful projects,
-    building equity and reducing exposure in vulnerable communities, and
-    creating new investment pathways that are accessible to anyone.
+    sustainable world by confronting environmental challenges by implementing
+    impactful projects, building equity and reducing exposure in vulnerable
+    communities, and creating new investment pathways that are accessible to
+    anyone.
 
 
     We are relentlessly passionate about using financial technology to
