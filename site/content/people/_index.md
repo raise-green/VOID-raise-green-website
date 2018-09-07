@@ -2,7 +2,7 @@
 title: Leadership Team
 people:
   - imageUrl: /img/franz-headshot.jpg
-    name: 'Franz Hochstrasser: CEO and Co-founder'
+    name: 'Franz Hochstrasser: CEO'
     role1: ''
     text: >
       Franz served 8 years in the Obama Administration. Most recently he served
@@ -13,7 +13,7 @@ people:
       and Environmental Studies, a BA in Linguistics and a BA in Politics from
       UC Santa Cruz.
   - imageUrl: /img/matt-headshot.jpg
-    name: 'Matthew Moroney: COO and Co-founder'
+    name: 'Matthew Moroney: COO'
     text: >
       Matt uses data-driven solutions to advance sustainability goals. He spent
       four years as an environmental consultant, investigating polluted
@@ -23,7 +23,7 @@ people:
       Forestry and Environmental Studies, and a BS in Environmental Science from
       Western Washington University.
   - imageUrl: /img/kwasi-headshot.jpg
-    name: 'Kwasi Ansu: Chief Marketing Officer'
+    name: 'Kwasi Ansu: CMO'
     text: >
       Kwasi comes has 10 years of international development and natural resource
       management experience working in Africa and Indonesia. His work focused
