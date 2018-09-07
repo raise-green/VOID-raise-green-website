@@ -31,16 +31,6 @@
 {{ partial "short-text" (dict "heading" .Params.values.heading "text" .Params.values.text  "buttonText" "Read more" "buttonLink" "/values") }}
 </div>
 
-<div class="bg-saffron">
-  <section id="contact" class="center cf pt4 pb2 mw8 center">
-  <div class="mhn1-l ph3 center mw7">
-
-      <h2 class="f2 b lh-title mb2">Contact</h2>
-
-        {{ partial "contact-form" . }}
-
-
-  </div>
       </section>
 </div>
 
@@ -99,6 +89,19 @@
      </div> */}}
   </div>
 </div>
+  
+  <div class="bg-saffron">
+  <section id="contact" class="center cf pt4 pb2 mw8 center">
+  <div class="mhn1-l ph3 center mw7">
+
+      <h2 class="f2 b lh-title mb2">Contact</h2>
+
+        {{ partial "contact-form" . }}
+
+
+  </div>
 </section>
+
+
 
 {{ end }}
