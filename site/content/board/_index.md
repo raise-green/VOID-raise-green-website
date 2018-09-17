@@ -12,7 +12,7 @@ people:
       marketing. 
   - imageUrl: /img/dan-gross.png
     name: Daniel Gross
-    role1: Clean Energy Private Equity and Infrastrcuture Investor
+    role1: Clean Energy Private Equity and Infrastructure Investor
     role2: 'Adjunct Professor, Yale University'
     text: >
       Daniel Gross is a private equity and infrastructure investor and is a
